@@ -1,3 +1,6 @@
+body {
+    background-color: #EEEEEE;
+}
 /********** Template CSS **********/
 :root {
     --primary: #FEA116;
@@ -158,9 +161,9 @@
     background-size: cover;
 }
 
-.hero-header img {
+/* .hero-header img {
     animation: imgRotate 50s linear infinite;
-}
+} */
 
 @keyframes imgRotate { 
     100% { 
